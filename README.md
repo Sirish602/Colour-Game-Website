@@ -1,2 +1,2 @@
-# Colour-Game-Website
+# Colour-Game-Webpage
 The game is to choose the right colour based on the rbg notations. Player can compete in easy or hard level. Enjoy!
